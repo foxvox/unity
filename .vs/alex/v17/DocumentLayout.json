@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{01BBDDA9-FF38-48AA-9AB0-D205E5A3A7A2}|alex\\alex.vcxproj|C:\\Users\\Administrator\\Desktop\\alex\\unity\\alex\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01BBDDA9-FF38-48AA-9AB0-D205E5A3A7A2}|alex\\alex.vcxproj|solutionrelative:alex\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2D8454-5698-443E-921C-29B872C6D6CB}|Class3th\\Class3th.vcxproj|C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E2D8454-5698-443E-921C-29B872C6D6CB}|Class3th\\Class3th.vcxproj|solutionrelative:Class3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class3th\\Source.c",
+              "RelativeDocumentMoniker": "Class3th\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class3th\\Source.c",
+              "RelativeToolTip": "Class3th\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-23T05:38:27.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +41,7 @@
               "RelativeDocumentMoniker": "alex\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\alex\\Source.c",
               "RelativeToolTip": "alex\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-21T06:28:55.321Z",
               "EditorCaption": ""
