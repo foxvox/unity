@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class6th", "Class6th\Class6
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th", "Class7th\Class7th.vcxproj", "{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ascii_Unicode", "Ascii_Unicode\Ascii_Unicode.vcxproj", "{AE80EE18-04CB-4740-A66C-958DCE385B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}.Release|x64.Build.0 = Release|x64
 		{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}.Release|x86.ActiveCfg = Release|Win32
 		{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}.Release|x86.Build.0 = Release|Win32
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Debug|x64.ActiveCfg = Debug|x64
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Debug|x64.Build.0 = Debug|x64
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Debug|x86.Build.0 = Debug|Win32
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Release|x64.ActiveCfg = Release|x64
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Release|x64.Build.0 = Release|x64
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Release|x86.ActiveCfg = Release|Win32
+		{AE80EE18-04CB-4740-A66C-958DCE385B7D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
