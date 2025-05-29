@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{01BBDDA9-FF38-48AA-9AB0-D205E5A3A7A2}|alex\\alex.vcxproj|solutionrelative:alex\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}|Class7th\\Class7th.vcxproj|C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class7th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59F3C4C7-4EFE-474C-97F6-90A155DD4AD6}|Class7th\\Class7th.vcxproj|solutionrelative:Class7th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{575FA6CE-5D74-41EB-BECC-A1B836FF9E5E}|Class6th\\Class6th.vcxproj|C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class6th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{575FA6CE-5D74-41EB-BECC-A1B836FF9E5E}|Class6th\\Class6th.vcxproj|solutionrelative:Class6th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class7th\\Source.c",
+              "RelativeDocumentMoniker": "Class7th\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class7th\\Source.c",
+              "RelativeToolTip": "Class7th\\Source.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-29T06:44:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class6th\\Source.c",
               "RelativeDocumentMoniker": "Class6th\\Source.c",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "Class6th\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-28T06:40:17.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T06:40:17.643Z"
             },
             {
               "$type": "Document",
@@ -49,14 +65,14 @@
               "RelativeDocumentMoniker": "alex\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\alex\\Source.c",
               "RelativeToolTip": "alex\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-27T05:27:26.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Chass5th\\Source.c",
               "RelativeDocumentMoniker": "Chass5th\\Source.c",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\alex\\unity\\Class4th\\Source.c",
               "RelativeDocumentMoniker": "Class4th\\Source.c",
