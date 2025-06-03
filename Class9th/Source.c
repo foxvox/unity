@@ -66,9 +66,9 @@ void main()
 
 #pragma endregion 
 #pragma region 함수포인터 
-	void (*fpMy)();
+	/*void (*fpMy)();
 	fpMy = Provide;
-	fpMy();
+	fpMy();*/
 #pragma endregion
 
 }

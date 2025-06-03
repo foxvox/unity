@@ -24,6 +24,7 @@
     <ProjectGuid>{9ceb87ee-2856-4fc4-a432-ab8208da7eaf}</ProjectGuid>
     <RootNamespace>Chass5th</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class5th</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
