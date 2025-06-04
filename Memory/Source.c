@@ -1,24 +1,16 @@
-#include <stdio.h> 
-#include <stdlib.h> 
+#include <stdio.h>
 
-// Class2th 참조
+int global_var = 10;  // 전역변수
 
-int main()
+void testFunction() 
 {
-	int* pt = (int*)malloc(sizeof(int));
-	*pt = 10;
-	free(pt);
+    int local_var = 20;  // 지역변수
+    printf("전역변수 주소: %p\n", (void*)&global_var);
+    printf("지역변수 주소: %p\n", (void*)&local_var);
+}
 
-	int cnt = 5;
-	pt = (int*)malloc(sizeof(int) * cnt);
-
-	for (int i = 0; i < cnt; i++)
-	{
-		pt[i] = (i + 1) * 10;
-		printf("pt[%d]: %d\t", i, pt[i]);
-	}
-
-	free(pt);
-
-	return 0;
+int main() 
+{
+    testFunction();
+    return 0;
 }

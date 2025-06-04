@@ -5,11 +5,11 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "alex", "alex\alex.vcxproj", "{01BBDDA9-FF38-48AA-9AB0-D205E5A3A7A2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th", "alex\Class1th\Class1th.vcxproj", "{3EFD8002-EF5E-43F8-A9DD-A9A56668A6AE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class01th", "alex\Class1th\Class1th.vcxproj", "{3EFD8002-EF5E-43F8-A9DD-A9A56668A6AE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th", "Class3th\Class3th.vcxproj", "{2E2D8454-5698-443E-921C-29B872C6D6CB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class03th", "Class3th\Class3th.vcxproj", "{2E2D8454-5698-443E-921C-29B872C6D6CB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th", "Class4th\Class4th.vcxproj", "{61C6A78D-187A-402A-BD68-BB0B5D395296}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class04th", "Class4th\Class4th.vcxproj", "{61C6A78D-187A-402A-BD68-BB0B5D395296}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th", "Chass5th\Chass5th.vcxproj", "{9CEB87EE-2856-4FC4-A432-AB8208DA7EAF}"
 EndProject
@@ -25,9 +25,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th", "Class8th\Class8
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th", "Class9th\Class9th.vcxproj", "{783FD903-ABA1-4EB5-AFE6-2D2FF6B5D2E3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th", "Class2th\Class2th.vcxproj", "{588023DE-41C7-43F4-BA4D-BCFFB1DBC80B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class02th", "Class2th\Class2th.vcxproj", "{588023DE-41C7-43F4-BA4D-BCFFB1DBC80B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memory", "Memory\Memory.vcxproj", "{B52D61E6-7B28-4DE5-B8C4-80218B74CBA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (구조체)", "Class10th (구조체)\Class10th (구조체).vcxproj", "{03E1566D-468B-49C1-928C-442FEC3FD05C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{B52D61E6-7B28-4DE5-B8C4-80218B74CBA5}.Release|x64.Build.0 = Release|x64
 		{B52D61E6-7B28-4DE5-B8C4-80218B74CBA5}.Release|x86.ActiveCfg = Release|Win32
 		{B52D61E6-7B28-4DE5-B8C4-80218B74CBA5}.Release|x86.Build.0 = Release|Win32
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Debug|x64.ActiveCfg = Debug|x64
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Debug|x64.Build.0 = Debug|x64
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Debug|x86.ActiveCfg = Debug|Win32
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Debug|x86.Build.0 = Debug|Win32
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Release|x64.ActiveCfg = Release|x64
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Release|x64.Build.0 = Release|x64
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Release|x86.ActiveCfg = Release|Win32
+		{03E1566D-468B-49C1-928C-442FEC3FD05C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

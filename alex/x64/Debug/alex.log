@@ -1,2 +1,5 @@
 ﻿  Source.c
+C:\Users\Administrator\Desktop\alex\unity\alex\Source.c(115,14): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Administrator\Desktop\alex\unity\alex\Source.c(116,14): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Administrator\Desktop\alex\unity\alex\Source.c(125,8): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
   alex.vcxproj -> C:\Users\Administrator\Desktop\alex\unity\x64\Debug\alex.exe
